@@ -14,7 +14,6 @@ header, footer{
 .collection {
     columns: 4;
     column-gap: 10px;
-    margin: 20px;
     width: 100%;
     background-color: rgb(235, 228, 194);
 }
