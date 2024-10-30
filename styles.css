@@ -2,6 +2,10 @@ body {
     background-color: rgb(235, 228, 194);
 }
 
+header{
+    position: sticky;
+}
+
 header, footer{
     color: rgb(50, 77, 52);
     font-family: Georgia;
