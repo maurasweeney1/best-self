@@ -75,31 +75,38 @@ header, footer{
     height: 100%;
 }
 
-[id*="curiosity"] {
+[id*="curiosity"] .front-img, 
+.back-note{
     border: 4px solid rgb(113, 148, 66);
 }
 
-[id*="build-others"] {
+[id*="build-others"] .front-img, 
+.back-note{
     border: 4px solid rgb(157, 86, 63);
 }
 
-[id*="positivity"] {
+[id*="positivity"] .front-img,
+.back-note{
     border: 4px solid rgb(50, 77, 52);
 }
 
-[id*="empathy"] {
+[id*="empathy"] .front-img,
+.back-note{
     border: 4px solid rgb(154, 206, 181);
 }
 
-[id*="authenticity"] {
+[id*="authenticity"] .front-img,
+.back-note{
     border: 4px solid rgb(87, 143, 149);
 }
 
-[id*="personal-growth"] {
+[id*="personal-growth"] .front-img,
+.back-note{
     border: 4px solid rgb(205, 208, 163);
 }
 
-[id*="determination"] {
+[id*="determination"] .front-img,
+.back-note{
     border: 4px solid rgb(144, 129, 145);
 }
 
